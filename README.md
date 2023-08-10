@@ -56,12 +56,11 @@ image.save
 
 output:-
 
-LinkdeIn black   white
 
-linkedIn_colourful
+![linkedIn_colourful](https://github.com/suyashstr/Make-any-QR-Code-using-Python/assets/141958076/9cb476b4-99b0-499e-9f80-edb1360ff613) ![linkedIn_diff_cases2](https://github.com/suyashstr/Make-any-QR-Code-using-Python/assets/141958076/0ada9ff3-3e41-44f2-851a-ea0af2c3ce5b)
 
-linkedIn_colour
+![LinkdeIn black   white](https://github.com/suyashstr/Make-any-QR-Code-using-Python/assets/141958076/b29fa50a-9457-46f7-956d-237def8eebb7)
 
-linkedIn_colour
+![linkedIn_colour](https://github.com/suyashstr/Make-any-QR-Code-using-Python/assets/141958076/22ebf419-f310-40ce-ac37-11518b8140fb)
 
-linkedIn_diff_cases2
+![linkedIn_diff_cases](https://github.com/suyashstr/Make-any-QR-Code-using-Python/assets/141958076/7c19a3e8-2f23-46db-a7ff-218229cfb842)
